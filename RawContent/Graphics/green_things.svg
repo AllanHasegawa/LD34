@@ -472,11 +472,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="-2545.649"
-     inkscape:cy="-1322.9255"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="2321.1773"
+     inkscape:cy="-883.3455"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:snap-page="false"
      inkscape:snap-bbox="true"
@@ -592,6 +592,16 @@
        width="511.75131"
        id="rect6141"
        style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#907311;stroke-width:0.24869958;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#907311;stroke-width:0.17586449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4887"
+       width="255.82414"
+       height="255.82414"
+       x="2429.3665"
+       y="1403.7544"
+       inkscape:export-filename="D:\libs\ue4\LD34\RawContent\Graphics\Exports\wooden_sword_512.png"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180" />
   </g>
   <g
      inkscape:label="Green Background"
@@ -4381,6 +4391,31 @@
          x="3119.8552"
          y="2754.1919"
          ry="1.26741" />
+    </g>
+    <g
+       transform="matrix(-0.822897,-0.56819057,0.56819057,-0.822897,2254.6479,4168.3007)"
+       id="g4889">
+      <path
+         style="fill:#613836;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1176,2327.3622 4,-9.5 40,10 89.4268,18.649 c 0,0 16.5594,10.7632 15.0099,14.0429 -0.5306,1.1231 -3.1992,2.8728 -5.1867,3.3081 -3.8294,0.8388 -5.9509,0.708 -12.5455,0.1464 -0.3982,-0.034 -40.1287,-5.4571 -40.1287,-5.4571 L 1221.5,2340.1122 Z"
+         id="path4891"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccsssccc" />
+      <path
+         style="fill:#6c3c3d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1226.9053,2312.2372 1.75,0.375 4.875,1.75 -13.875,45.375 -5.625,-3.25 z"
+         id="path4893"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.24908423"
+         d="m 1178.9238,2319.8511 19.7989,7.9549 22.4507,4.0659"
+         id="path4895"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.24908423"
+         d="m 1233.1942,2336.8216 21.5668,9.1924 20.506,0.5304 25.4559,12.1975 9.5459,1.4143"
+         id="path4897"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
   <g
