@@ -7,6 +7,8 @@ Make money, buy your equipment, then go west to kill Gindra!
 LD34
 ====
 
+**Submission page:** http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=62018
+
 Game submitted for the Ludum Dare 34, 13/December/2015.
 
 **Theme**: Two buttons control and Growth.
