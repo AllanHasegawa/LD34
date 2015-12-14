@@ -635,9 +635,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710682"
-     inkscape:cx="-806.09555"
-     inkscape:cy="270.85984"
+     inkscape:zoom="1.0000001"
+     inkscape:cx="581.62827"
+     inkscape:cy="-358.40182"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -678,7 +678,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Export Area"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#907311;stroke-width:0.35172898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4353"
@@ -6552,7 +6552,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Field Tops"
-     style="display:none">
+     style="display:inline">
     <path
        inkscape:connector-curvature="0"
        id="path6845"
