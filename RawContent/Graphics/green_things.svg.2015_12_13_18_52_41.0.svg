@@ -636,8 +636,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="3112.4931"
-     inkscape:cy="-398.30449"
+     inkscape:cx="2493.6177"
+     inkscape:cy="-1105.7544"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -1004,6 +1004,16 @@
        inkscape:export-filename="D:\libs\ue4\LD34\RawContent\Graphics\Exports\diamon_sword_512.png"
        inkscape:export-xdpi="180"
        inkscape:export-ydpi="180" />
+    <rect
+       style="opacity:1;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:#907311;stroke-width:0.17586449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6444"
+       width="255.82414"
+       height="255.82414"
+       x="2429.3665"
+       y="2048.2957"
+       inkscape:export-filename="D:\libs\ue4\LD34\RawContent\Graphics\Exports\water_256.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Green Background"
@@ -5718,6 +5728,18 @@
        cx="3157.2498"
        id="ellipse6426"
        style="opacity:0.663;fill:#3cffdf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter6397)" />
+    <path
+       sodipodi:nodetypes="ssss"
+       inkscape:connector-curvature="0"
+       id="path6442"
+       d="m 2578.9125,2066.4888 c -12.1641,118.4957 -85.4294,130.9222 -103.3907,151.6394 -44.0595,50.8208 124.2014,144.3379 170.5945,3.4461 4.3291,-13.1477 -61.4504,-211.1312 -67.2038,-155.0855 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 2603.2202,2184.7856 c -3.5668,34.7464 -25.0503,38.3902 -30.3171,44.4651 -12.9195,14.9021 36.4194,42.324 50.0232,1.0105 1.2694,-3.8553 -18.019,-61.9098 -19.7061,-45.4756 z"
+       id="path6449"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssss" />
   </g>
   <g
      inkscape:groupmode="layer"
